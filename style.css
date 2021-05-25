@@ -1,0 +1,101 @@
+.A {
+  color: #eeeeee;
+  text-shadow: 2px 2px 5px #00adb5;
+  text-transform: uppercase;
+  text-align: center;
+  font-style: inherit;
+  font-family: cursive;
+  border-radius: 10px;
+  height: 100px;
+  background: url(ab.jpg) no-repeat center fixed;
+  background-size: auto;
+  margin: 10px 20px 5px 20px;
+}
+
+.border {
+  border: 3px solid #aad8d3;
+}
+.What {
+  text-shadow: 1px 1px 3px #234244;
+  text-align: center;
+  font-family: fantasy;
+  font-size: x-large;
+  color: #00adb5;
+}
+
+.the {
+  font-size: large;
+  text-shadow: 2px 2px 2px #00adb5;
+
+  color: #eeeeee;
+  text-align: justify;
+  font-family: cursive;
+  text-align: center;
+  margin: 0px 0px 30px 0px;
+}
+.G {
+  font-weight: bolder;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 5px eeeeee;
+  color: #aad8d3;
+}
+.img {
+  background: url(back.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+.p1 {
+  color: #eeeeee;
+  font-weight: bold;
+}
+
+.p2 {
+  margin-top: -25px;
+  margin-left: -80px;
+  text-align: center;
+  color: #eeeeee;
+  font-weight: bold;
+}
+.u2 {
+  color: #00adb5;
+  text-transform: capitalize;
+}
+
+.p3 {
+  margin-top: -30px;
+  margin-right: 80;
+  text-align: end;
+  color: #eeeeee;
+  font-weight: bold;
+}
+
+.u3 {
+  margin-left: 800px;
+  margin-top: -85px;
+  color: #00adb5;
+  text-transform: capitalize;
+}
+
+.collapse {
+  color: #eeeeee;
+}
+
+.top {
+  margin-top: 10;
+  margin-left: 30px;
+  background-color: #aad8d3;
+}
+
+.con {
+  background-color: #00adb5;
+  color: #aad8d3;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #393e46;
+  color: #eeeeee;
+  text-align: center;
+}
